@@ -1,4 +1,3 @@
-```markdown
 # InquAIre Chatbot
 
 Welcome to the **InquAIre** chatbot project! This application leverages the Groq API to compare responses from multiple AI models in real time, enabling users to interact with and evaluate different models simultaneously.
@@ -59,4 +58,3 @@ This project is licensed under the MIT License.
 
 - [Groq](https://www.groq.com) for providing the AI model API.
 - [Streamlit](https://streamlit.io) for the interactive web framework.
-```
