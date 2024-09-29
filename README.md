@@ -1,6 +1,6 @@
-# InquAIre Chatbot
+# PolySearch Chatbot
 
-Welcome to the **InquAIre** chatbot project! This application leverages the Groq API to compare responses from multiple AI models in real time, enabling users to interact with and evaluate different models simultaneously.
+Welcome to the **PolySearch** chatbot project! This application leverages the Groq API to compare responses from multiple AI models in real time, enabling users to interact with and evaluate different models simultaneously.
 
 ## Features
 
@@ -21,8 +21,8 @@ Welcome to the **InquAIre** chatbot project! This application leverages the Groq
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/inquaire-chatbot.git
-   cd inquaire-chatbot
+   git clone https://github.com/yourusername/PolySearch-chatbot.git
+   cd PolySearch-chatbot
    ```
 
 2. Install the required packages:
