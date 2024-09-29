@@ -6,7 +6,7 @@ from groq import Groq
 st.set_page_config(layout="wide", page_title="Welcome to my chatbot!")
 
 # Display app title
-st.subheader ("InquAIre", anchor=False)
+st.subheader ("PolySearch", anchor=False)
 
 # Define path for API key file
 api_key_file_path = "enter your file path"
